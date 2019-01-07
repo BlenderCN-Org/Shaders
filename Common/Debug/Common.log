@@ -1,0 +1,9 @@
+﻿  Camera.cpp
+  GameTimer.cpp
+  RendererBase.cpp
+  Win32Keyboard.cpp
+  Win32Mouse.cpp
+  Win32Window.cpp
+  Window.cpp
+  Generating Code...
+  Common.vcxproj -> D:\Year 3\Graphics for games\Shaders scene CW\Win32\Debug\Common.lib

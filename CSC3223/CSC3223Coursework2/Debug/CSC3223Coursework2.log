@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community2\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CSC3223Coursework2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Coursework2.cpp
+d:\year 3\graphics for games\shaders scene cw\csc3223\csc3223coursework2\coursework2.cpp(60): warning C4305: 'argument': truncation from 'double' to 'float'
+  Cube.cpp
+  Renderer.cpp
+d:\year 3\graphics for games\shaders scene cw\csc3223\csc3223coursework2\renderer.cpp(64): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+d:\year 3\graphics for games\shaders scene cw\csc3223\csc3223coursework2\renderer.cpp(108): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RenderObject.cpp
+  Generating Code...
+  CSC3223Coursework2.vcxproj -> D:\Year 3\Graphics for games\Shaders scene CW\Debug\Shader Project.exe
